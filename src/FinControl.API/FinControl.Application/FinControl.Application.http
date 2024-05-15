@@ -1,0 +1,6 @@
+@FinControl.Application_HostAddress = http://localhost:5223
+
+GET {{FinControl.Application_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
